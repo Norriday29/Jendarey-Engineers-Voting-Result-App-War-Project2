@@ -65,7 +65,7 @@
         <snapshotRepository>
             <id>nexus</id>
             <name>Jendarey Technologies Snapshot Nexus Repository</name>
-            <url>http://3.82.196.254:8081/jendarey/repository/vote-snapshots/url> 
+            <url>http://3.82.196.254:8081/jendarey/repository/vote-snapshots/</url> 
         </snapshotRepository>
     </distributionManagement>
     
